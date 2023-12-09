@@ -7,3 +7,4 @@ SQLAlchemy
 psycopg2
 Jinja2
 matplotlib
+beautifulsoup4
